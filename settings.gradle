@@ -1,0 +1,3 @@
+include ':app'
+//include ':app', ':app:libs:jena_lib:commons-codec-1.6'
+

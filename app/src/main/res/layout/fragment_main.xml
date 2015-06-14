@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity$PlaceholderFragment"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnAncientHistory"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="ancientHistoryClick"
+        android:text="@string/ancient_history" />
+    <Button
+        android:id="@+id/btnPostclassicalEra"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="postclassicalEraClick"
+        android:text="@string/postclassical_era" />
+    <Button
+        android:id="@+id/btnEarlyMperiod"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="earlyMperiodClick"
+        android:text="@string/early_mperiod" />
+    <Button
+        android:id="@+id/btnMidMperiod"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="midMperiodClick"
+        android:text="@string/mid_mperiod" />
+    <Button
+        android:id="@+id/btnContemPeriod"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="contemPeriodClick"
+        android:text="@string/contemporary_period" />
+
+</LinearLayout>

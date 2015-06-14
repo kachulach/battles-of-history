@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Battles Of History</string>
+    <string name="ancient_history">Ancient History (3600 BCE – 500 CE)</string>
+    <string name="postclassical_era">Postclassical Era (500 – 1500)</string>
+    <string name="early_mperiod">Early Modern Period (1500 – 1750)</string>
+    <string name="mid_mperiod">Middle Modern Period (1750 – 1914)</string>
+    <string name="contemporary_period">Contemporary Period (1914 – present)</string>
+    <string name="title_activity_conflicts">Conflicts Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_battles">Battles Activity</string>
+    <string name="open_battles">Open battles</string>
+    <string name="open_location">Open location on map</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
